@@ -6,12 +6,12 @@ As part of my postgraduate experience, I contributed to applied research project
 
 My technical background centers on Python and C++ for AI and robotics applications, with extensive experience using PyTorch, ROS, and NVIDIA simulation tools to design, validate, and test perception systems. My interests focus on autonomous robotics, vision-based scene understanding, and digital-twin environments for perception and navigation.
 
-## Contacts  
-[LinkedIn](https://www.linkedin.com/in/germano-pansini/) ·
-[Portfolio](https://TUOUSERNAME.github.io) ·
-
 ## Projects
 [Robotics Demo 1.0](https://www.youtube.com/watch?v=MevmB0SO3JE) ·
-[Robotics Demo 2.0](https://www.youtube.com/watch?v=FkRZWmPqa9c) .
-[Paper](https://ieeexplore.ieee.org/document/10855066) .
+[Robotics Demo 2.0](https://www.youtube.com/watch?v=FkRZWmPqa9c) ·
+[Paper](https://ieeexplore.ieee.org/document/10855066)
+
+## Contacts  
+[LinkedIn](https://www.linkedin.com/in/germano-pansini/) ·
+[Portfolio](https://TUOUSERNAME.github.io) 
 
