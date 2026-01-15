@@ -11,7 +11,7 @@ My technical background centers on Python and C++ for AI and robotics applicatio
 [Robotics Demo 2.0](https://www.youtube.com/watch?v=FkRZWmPqa9c) 
 
 ## Paper
-[Paper](https://ieeexplore.ieee.org/document/10855066)
+[2024 IEEE International Humanitarian Technologies Conference (IHTC)](https://ieeexplore.ieee.org/document/10855066)
 
 ## Contacts  
 [LinkedIn](https://www.linkedin.com/in/germano-pansini/) ·
