@@ -13,5 +13,5 @@ My technical background centers on Python and C++ for AI and robotics applicatio
 
 ## Contacts  
 [LinkedIn](https://www.linkedin.com/in/germano-pansini/) ·
-[Portfolio](https://TUOUSERNAME.github.io) 
+[Portfolio](https://germano-pansini.github.io) 
 
