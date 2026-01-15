@@ -8,7 +8,9 @@ My technical background centers on Python and C++ for AI and robotics applicatio
 
 ## Projects
 [Robotics Demo 1.0](https://www.youtube.com/watch?v=MevmB0SO3JE) ·
-[Robotics Demo 2.0](https://www.youtube.com/watch?v=FkRZWmPqa9c) ·
+[Robotics Demo 2.0](https://www.youtube.com/watch?v=FkRZWmPqa9c) 
+
+## Paper
 [Paper](https://ieeexplore.ieee.org/document/10855066)
 
 ## Contacts  
