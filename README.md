@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Germano Pansini
 
-I’m an engineer with a **B.Sc. in Electronics and Telecommunications Engineering** and an **M.Sc. in Computer Engineering (Artificial Intelligence & Data Science)** from the Polytechnic University of Bari.
+I’m an engineer with a **B.Sc. in Electronics and Telecommunications Engineering** and an **M.Sc. in Computer Engineering (Artificial Intelligence & Data Science)** from the Polytechnic University of Bari, Italy.
 
 My background sits at the intersection of **computer vision, perception for robotics, embedded systems, and simulation-driven development**.  
 I enjoy working on problems where sensing, data, and intelligent decision-making meet the physical world.
@@ -66,7 +66,6 @@ From gesture-based drone control to real-time 3D mapping with SLAM, my projects 
 ## 📫 Get in touch
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/germano-pansini/)  
-- 🌐 [Portfolio](https://germano-pansini.github.io)
 
 ---
 
